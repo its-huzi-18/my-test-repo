@@ -1,0 +1,12 @@
+{
+  "name": "rock-paper-scissor-game",
+  "version": "1.0.0",
+  "description": "Building Rock paper scissor game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Huzaifa",
+  "license": "ISC"
+}
